@@ -1,4 +1,6 @@
-his is the third group project for the Data Analytics Bootcamp at Ironhack. The goal of this project was to consolidate our knowledge of APIs and web scraping. We decided to develop a sports app that makes live connections to two APIs and has a database of web scraped events.
+This is the third group project for the Data Analytics Bootcamp at Ironhack. The goal of this project was to consolidate our knowledge of APIs and web scraping. We decided to develop a sports app that makes live connections to two APIs and has a database of web scraped events.
+
+Group members: Maria Garcia, Giada Sartori and Asier Rodriguez
 
 The app's main features are:
 1. Based on your location, the app will show you sports venues nearby to practice the sport you choose.
