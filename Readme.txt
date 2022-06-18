@@ -1,4 +1,4 @@
-Sportify is the perfect app for sports lovers! The app will find venues for specific sports wherever you are, will keep you up to date with the latest sports events in your area, and will suggest you the perfect playlists from Spotify so you can give it all while you work out!
+Sportify is the ultimate app for sports lovers! The app will find venues for specific sports wherever you are, will keep you up to date with the latest sports events in your area, and will suggest you the perfect playlists from Spotify so you can give it all while you work out!
 
 This is the third group project for the Data Analytics Bootcamp at Ironhack Portugal (April 2022 FT cohort). The goal of this project was to consolidate our knowledge of APIs and web scraping. We decided to develop a sports app that makes live connections to three APIs and has a database of web scraped events.
 
